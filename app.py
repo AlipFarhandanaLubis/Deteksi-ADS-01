@@ -23,8 +23,8 @@ MODEL_DIR = BASE / "model"
 SAMPLE_CSV = BASE / "data" / "sample_flows.csv"
 
 # [MODIFIKASI 1] Isi identitas kamu di sini
-NAMA_MAHASISWA = "Nama Kamu"
-NIM_MAHASISWA = "1234567890"
+NAMA_MAHASISWA = "Alip Farhandana Lubis"
+NIM_MAHASISWA = "2410017514004"
 
 # [MODIFIKASI 2] Judul tab browser dan ikon diubah
 st.set_page_config(page_title="NetGuard - Deteksi Serangan UNSW-NB15", page_icon="🔐", layout="wide")
